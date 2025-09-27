@@ -1,0 +1,64 @@
+{
+  "cond-mat/9905407v1": {
+    "title": "The Dynamics of Structural Transitions in Sodium Chloride Clusters",
+    "authors": [
+      "Jonathan Doye",
+      "David Wales"
+    ],
+    "summary": "In recent experiments on sodium chloride clusters structural transitions\nbetween nanocrystals with different cuboidal shapes were detected. Here we\npresents results for the thermodynamics and dynamics of one of these clusters,\n(NaCl)35Cl-. As the time scales for the structural transitions can be much\nlonger than those accessible by conventional dynamics simulations, we use a\nmaster equation to describe the probability flow within a large sample of\npotential energy minima. We characterize the processes contributing to\nprobability flow between the different nanocrystals, and obtain rate constants\nand activation energies for comparison with the experimental values.",
+    "pdf_url": "http://arxiv.org/pdf/cond-mat/9905407v1",
+    "published": "1999-05-27"
+  },
+  "1911.06212v1": {
+    "title": "Nucleation kinetics in drying sodium nitrate aerosols",
+    "authors": [
+      "Joshua F. Robinson",
+      "Florence K. A. Gregson",
+      "Rachael E. H. Miles",
+      "Jonathan P. Reid",
+      "C. Patrick Royall"
+    ],
+    "summary": "A quantitative understanding of the evaporative drying kinetics and\nnucleation rates of aqueous based aerosol droplets is important for a wide\nrange of applications, from atmospheric aerosols to industrial processes such\nas spray drying. Here, we introduce a numerical model for interpreting\nmeasurements of the evaporation rate and phase change of drying free droplets\nmade using a single particle approach. We explore the evaporation of aqueous\nsodium chloride and sodium nitrate solution droplets. Although the chloride\nsalt is observed to reproducibly crystallise at all drying rates, the nitrate\nsalt solution can lose virtually all of its water content without\ncrystallising. The latter phenomenon has implications for our understanding of\nthe competition between the drying rate and nucleation kinetics in these two\nsystems. The nucleation model is used in combination with the measurements of\ncrystallisation events to infer nucleation rates at varying equilibrium state\npoints, showing that classical nucleation theory provides a good description of\nthe crystallisation of the chloride salt but not the nitrate salt solution\ndroplets. The reasons for this difference are considered.",
+    "pdf_url": "http://arxiv.org/pdf/1911.06212v1",
+    "published": "2019-11-14"
+  },
+  "cond-mat/9801152v2": {
+    "title": "Structural Transitions and Global Minima of Sodium Chloride Clusters",
+    "authors": [
+      "Jonathan Doye",
+      "David Wales"
+    ],
+    "summary": "In recent experiments on sodium chloride clusters structural transitions\nbetween nanocrystals with different cuboidal shapes were detected. Here we\ndetermine reaction pathways between the low energy isomers of one of these\nclusters, (NaCl)35Cl-. The key process in these structural transitions is a\nhighly cooperative rearrangement in which two parts of the nanocrystal slip\npast one another on a {110} plane in a <1-10> direction. In this way the\nnanocrystals can plastically deform, in contrast to the brittle behaviour of\nbulk sodium chloride crystals at the same temperatures; the nanocrystals have\nmechanical properties which are a unique feature of their finite size. We also\nreport and compare the global potential energy minima for (NaCl)NCl- using two\nempirical potentials, and comment on the effect of polarization.",
+    "pdf_url": "http://arxiv.org/pdf/cond-mat/9801152v2",
+    "published": "1998-01-15"
+  },
+  "2201.01333v1": {
+    "title": "A New UV Spectral Feature on Europa: Confirmation of NaCl in Leading-hemisphere Chaos Terrain",
+    "authors": [
+      "Samantha K. Trumbo",
+      "Tracy M. Becker",
+      "Michael E. Brown",
+      "William T. P. Denman",
+      "Philippa Molyneux",
+      "Amanda Hendrix",
+      "Kurt D. Retherford",
+      "Lorenz Roth",
+      "Juan Alday"
+    ],
+    "summary": "Recent visible-wavelength observations of Europa's surface obtained with the\nHubble Space Telescope revealed the presence of an absorption feature near 450\nnm that appears spatially correlated with leading-hemisphere chaos terrain.\nThis feature was interpreted to reflect the presence of irradiated sodium\nchloride ultimately sourced from the interior. Here, we use ultraviolet spectra\nalso collected with the Hubble Space Telescope to detect an additional\npreviously unseen absorption near 230 nm, which spatially correlates with the\n450 nm feature and with the same leading-hemisphere chaos terrain. We find that\nthe new ultraviolet feature is also well-matched by irradiated sodium chloride\nat Europa-like conditions. Such confirmation of sodium chloride within\ngeologically young regions has important implications for Europa's subsurface\ncomposition.",
+    "pdf_url": "http://arxiv.org/pdf/2201.01333v1",
+    "published": "2022-01-04"
+  },
+  "2010.15284v1": {
+    "title": "Turbidimetric evaluation of the solubilization rate: dissolution of dodecane nanodrops in 7.5 mM sodium dodecylsulfate solutions at selected sodium chloride concentrations",
+    "authors": [
+      "Jose Daniel Rodriguez",
+      "Maurice Espinoza",
+      "Kareem Rahn-Chique",
+      "German Urbina-Villalba"
+    ],
+    "summary": "The rate of micelle solubilization (SR) can be appraised following the\ndecrease of the radius of a macroscopic drop of oil in contact with a\nsurfactant solution [Todorov, 2002]. Alternatively, the time required for the\ndissolution of a liquid dispersion can be used for this purpose. Here, the\ndecrease of the turbidity of a dodecane-in-water (d/w) nanoemulsion in 7.5 mM\nsodium dodecylsulfate (SDS) is studied at sodium chloride concentrations of\n100, 300, 500, 700, 900, and 1000 mM NaCl. These salinities correspond to\nnon-aggregating (< 300), aggregation-promoted (500) and surfactant\nprecipitation regimes (> 700). It is found that SR is equal to 2.3 x 10^-11,\nhalf the value observed in the absence of salt for a neat aqueous surfactant\nsolution above its critical micelle concentration (7.0 < cmc < 8.7 mM SDS\n[Deodhar, 2020]).",
+    "pdf_url": "http://arxiv.org/pdf/2010.15284v1",
+    "published": "2020-10-28"
+  }
+}

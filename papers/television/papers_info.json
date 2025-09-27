@@ -1,0 +1,22 @@
+{
+  "1301.3187v1": {
+    "title": "Recommendation system for information services adapted, over terrestrial digital television",
+    "authors": [
+      "Mery Yolima Uribe Rios",
+      "Rafael V. P\u00e1ez"
+    ],
+    "summary": "The development of digital television in Colombia has grown in last years,\nspecially the digital terrestrial television (DTT), which is an essential part\nto the projects of National Minister of ICT, thanks to the big distribution and\nuse of the television network and Internet in the country. This article\nexplains how joining different technologies like social networks, information\nadaptation and DTT, to get an application that offers information services to\nusers, based on their data, preferences, inclinations, use and interaction with\nothers users and groups inside the network.",
+    "pdf_url": "http://arxiv.org/pdf/1301.3187v1",
+    "published": "2013-01-15"
+  },
+  "1309.6217v1": {
+    "title": "Agent-based modeling of zapping behavior of viewers, television commercial allocation, and advertisement markets",
+    "authors": [
+      "Hiroyuki Kyan",
+      "Jun-ichi Inoue"
+    ],
+    "summary": "We propose a simple probabilistic model of zapping behavior of television\nviewers. Our model might be regarded as a `theoretical platform' to investigate\nthe human collective behavior in the macroscopic scale through the zapping\naction of each viewer at the microscopic level. The stochastic process of\naudience measurements as macroscopic quantities such as television program\nrating point or the so-called gross rating point (GRP for short) are\nreconstructed using the microscopic modeling of each viewer's decision making.\nAssuming that each viewer decides the television station to watch by means of\nthree factors, namely, physical constraints on television controllers,\nexogenous information such as advertisement of program by television station,\nand endogenous information given by `word-of-mouth communication' through the\npast market history, we shall construct an aggregation probability of\nGibbs-Boltzmann-type with the energy function. We discuss the possibility for\nthe ingredients of the model system to exhibit the collective behavior due to\nnot exogenous but endogenous information.",
+    "pdf_url": "http://arxiv.org/pdf/1309.6217v1",
+    "published": "2013-09-19"
+  }
+}

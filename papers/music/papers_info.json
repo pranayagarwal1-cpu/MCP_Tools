@@ -1,0 +1,21 @@
+{
+  "2104.11880v1": {
+    "title": "Music Embedding: A Tool for Incorporating Music Theory into Computational Music Applications",
+    "authors": [
+      "SeyyedPooya HekmatiAthar",
+      "Mohd Anwar"
+    ],
+    "summary": "Advancements in the digital technologies have enabled researchers to develop\na variety of Computational Music applications. Such applications are required\nto capture, process, and generate data related to music. Therefore, it is\nimportant to digitally represent music in a music theoretic and concise manner.\nExisting approaches for representing music are ineffective in terms of\nutilizing music theory. In this paper, we address the disjoint of music theory\nand computational music by developing an opensource representation tool based\non music theory. Through the wide range of use cases, we run an analysis on the\nclassical music pieces to show the usefulness of the developed music embedding.",
+    "pdf_url": "http://arxiv.org/pdf/2104.11880v1",
+    "published": "2021-04-24"
+  },
+  "2109.12475v1": {
+    "title": "General Theory of Music by Icosahedron 3: Musical invariant and Melakarta raga",
+    "authors": [
+      "Yusuke Imai"
+    ],
+    "summary": "Raga is a central musical concept in South Asia, especially India, and we\ninvestigate connections between Western classical music and Melakarta raga that\nis a raga in Karnatak (south Indian) classical music, through musical\nicosahedron. In our previous study, we introduced some kinds of musical\nicosahedra connecting various musical concepts in Western music:\nchromatic/whole tone musical icosahedra, Pythagorean/whole tone musical\nicosahedra, and exceptional musical icosahedra. In this paper, first, we\nintroduce kinds of musical icosahedra that connect the above musical icosahedra\nthrough two kinds of permutations of 12 tones: inter-permutations and\nintra-permutations, and we call them intermediate musical icosahedra. Next, we\ndefine a neighboring number as a number of pairs of neighboring two tones in a\ngiven scale that neighbor each other on a given musical icosahedron, and we\nalso define a musical invariant as a linear combination of the neighboring\nnumbers. We find there exists a pair of a musical invariant and scales that is\nconstant for some musical icosahedra and analyze their mathematical structure.\nLast, we define an extension of a given scale by the inter-permutations of a\ngiven musical icosahedron: the permutation-extension. Then, we show that the\npermutation-extension of the C major scale by Melakarta raga musical icosahedra\nthat are four of the intermediate musical icosahedra from the type 1\nchromatic/whole tone musical icosahedron to the type 1' Pythagorean/whole tone\nmusical icosahedron, is a set of all the scales included in Melakarta raga.\nThere exists a musical invariant that is constant for all the musical\nicosahedra corresponding to the scales of Melakarta raga, and we obtained a\ndiagram representation of those scales characterizing the musical invariant.",
+    "pdf_url": "http://arxiv.org/pdf/2109.12475v1",
+    "published": "2021-09-26"
+  }
+}
